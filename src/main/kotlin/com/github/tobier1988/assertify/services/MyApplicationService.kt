@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tobier1988.assertify.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tobier1988.assertify.MyBundle
 
 class MyApplicationService {
 
